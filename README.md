@@ -7,5 +7,5 @@ Track budget expenses on or offline
 
 ## Business Context
 
-A consumer will be able to add and subtract expenses anywhere in the world.
+* A consumer will be able to add and subtract expenses anywhere in the world.
 
